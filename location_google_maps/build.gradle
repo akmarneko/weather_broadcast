@@ -8,7 +8,7 @@ android {
     defaultConfig {
         applicationId "com.akmarneko.location_google_maps"
         minSdkVersion 21
-        targetSdkVersion 28
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
 
